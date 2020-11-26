@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="es" dir="ltr">
+	<head lang="es" dir="ltr">
+		<title>
+			Motor EC
+		</title>
+		<meta name="author" content="Elena" 
+		name="description" content="Noticias Motor"
+		name="keywords" content="motor, neumaticos, pilotos, clasificacion, vuelta, bandera cuadros"
+		name="locality" content="Madrid, España"		
+		name="copyright" content="http://creativecommons.org/licenses/by-nc/4.0/"
+		name="robots" content="index, nofollow"
+		http-equiv="content-type" content="text/html; charset=utf-8"
+		http-equiv="refresh" content="10"
+		http-equiv="page-enter" content="blendTrans(duration=6)"
+		http-equiv="page-exit" content="revealTrans(duration=1.5,transition=5)"
+		scheme="europe" name="date" content="06-11-2020">
+		<link rel="alternate" hreflang="en" title="Mi página en inglés" type="text/html" href="www.motorec.tonohost.com">
+		<link rel="shortcut icon" href="image/logo.icon" alt="image.icon" type="logo.icon"/>
+		<script src="script.js"></script>
+		<link rel="stylesheet" href="estilo.css">
+		</script>
+		<style></style>
+	</head>
+	
+	<body style="background-color:#B3D1E0 " > <!--onload="alert('Coches')" >
+	<!-- lang idioma -->
+	<!-- dir direccion del texto -->
+	<!-- id identifica la clase de un documento, se puede repetir-->
+	<!-- title agrega comentarios a un elemento-->
+	<!-- style da estilo a un elemento-->
+	<!-- onload ocurre cuando el navegador carga un documento-->
+	<!-- onunload ocurre cuando el navegador elimina un documento de una ventana -->
+
+		<h1>Bienvenidos a Motor EC</h1>
+		<p>Una web cosas que le interesan solo a Elena </p>
+		<p> Cuidado con las esdrújulas </p> <p> Cuidado con las esdr&uacute;julas </p>
+		<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
+			<img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" />
+			</a>
+				<br />
+				Esta <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" rel="dct:type">obra</span> 
+				cuyo autor es <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Elena Carbonell</span> 
+				est&aacute bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">licencia de Reconocimiento-NoComercial 4.0 Internacional de Creative Commons</a>
+        <section>
+            <p><script type="text/javascript">
+	var d = new Date();
+	var dia=new Array(7);
+		dia[0]="Domingo";
+		dia[1]="Lunes";
+		dia[2]="Martes";
+		dia[3]="Miercoles";
+		dia[4]="Jueves";
+		dia[5]="Viernes";
+		dia[6]="Sabado";
+	var mm=new Date();
+	var m2 = mm.getMonth() + 1;
+	var mesok = (m2 < 10) ? '0' + m2 : m2;
+	var mesok=new Array(12);
+		mesok[4]="Mayo";
+		mesok[5]="Junio";
+		mesok[6]="Julio";
+		mesok[7]="Agosto";
+		mesok[8]="Septiembre";
+		mesok[9]="Octubre";
+		mesok[10]="Noviembre";
+		mesok[11]="Diciembre"
+	document.write('Dia de la semana: '+dia[d.getDay()],' '+d.getDate(),' de '+ mesok[mm.getMonth()],' de '+d.getFullYear());
+	</script>
+	<script type="text/javascript">
+	document.write('<br>Hora: '+d.getHours(),': '+d.getMinutes(),': '+d.getSeconds());
+	</script>
+        </section>
+		<script>
+	document.getElementById("demo").innerHTML = "Date";
+	</script>
+	</body>
